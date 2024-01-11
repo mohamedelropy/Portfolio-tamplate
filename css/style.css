@@ -13,7 +13,7 @@ body,html {
 
 .header {
     height: 650px;
-    background-image: url('images/firstm.jpg');
+    background-image: url(images/first-m.jpg);
     background-size: cover;
     position: relative;
     overflow: hidden;
